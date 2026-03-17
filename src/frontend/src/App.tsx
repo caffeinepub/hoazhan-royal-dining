@@ -318,7 +318,7 @@ function Navbar() {
         <a href="#home" data-ocid="nav.link" className="group">
           <div className="flex flex-col">
             <span className="font-playfair text-gold text-xl font-semibold tracking-[0.1em] leading-none">
-              HOAZHAN
+              HAOZHAN
             </span>
             <span className="font-poppins text-cream/60 text-[10px] tracking-[0.4em] uppercase">
               Royal Dining · Mumbra
@@ -476,7 +476,7 @@ function HeroSection() {
                 textShadow: "0 0 60px rgba(201,168,76,0.15)",
               }}
             >
-              HOAZHAN
+              HAOZHAN
             </span>
             <span
               className="block text-gold italic"
@@ -1209,7 +1209,7 @@ function ContactSection() {
                   label: "Reservations",
                   value: "+91 98765 43210",
                 },
-                { icon: Mail, label: "Email", value: "dine@hoazhan.com" },
+                { icon: Mail, label: "Email", value: "dine@haozhan.com" },
                 {
                   icon: Clock,
                   label: "Hours",
@@ -1240,7 +1240,7 @@ function ContactSection() {
               </div>
               <div className="flex gap-3">
                 <a
-                  href="https://instagram.com/hoazhanroyaldining"
+                  href="https://instagram.com/haozhanroyaldining"
                   target="_blank"
                   rel="noopener noreferrer"
                   data-ocid="contact.link"
@@ -1249,7 +1249,7 @@ function ContactSection() {
                   <SiInstagram size={16} />
                 </a>
                 <a
-                  href="https://facebook.com/hoazhanroyaldining"
+                  href="https://facebook.com/haozhanroyaldining"
                   target="_blank"
                   rel="noopener noreferrer"
                   data-ocid="contact.link"
@@ -1314,7 +1314,7 @@ function Footer() {
           {/* Brand */}
           <div className="text-center md:text-left">
             <div className="font-playfair text-gold text-xl tracking-[0.1em] mb-1">
-              HOAZHAN
+              HAOZHAN
             </div>
             <div className="font-poppins text-[10px] tracking-[0.4em] uppercase text-cream/40">
               Royal Dining · Mumbra · Since 2025
@@ -1337,7 +1337,7 @@ function Footer() {
           {/* Socials */}
           <div className="flex gap-3">
             <a
-              href="https://instagram.com/hoazhanroyaldining"
+              href="https://instagram.com/haozhanroyaldining"
               target="_blank"
               rel="noopener noreferrer"
               className="text-cream/40 hover:text-gold transition-colors"
@@ -1345,7 +1345,7 @@ function Footer() {
               <SiInstagram size={16} />
             </a>
             <a
-              href="https://facebook.com/hoazhanroyaldining"
+              href="https://facebook.com/haozhanroyaldining"
               target="_blank"
               rel="noopener noreferrer"
               className="text-cream/40 hover:text-gold transition-colors"
