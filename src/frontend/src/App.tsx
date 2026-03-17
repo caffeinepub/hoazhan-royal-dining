@@ -429,7 +429,7 @@ function HeroSection() {
       <motion.div className="absolute inset-0" style={{ y: bgY }}>
         <img
           src="/assets/generated/hero-royal-dining.dim_1920x1080.jpg"
-          alt="Hoazhan Royal Dining Interior"
+          alt="Haozhan Royal Dining Interior"
           className="w-full h-full object-cover scale-110"
         />
       </motion.div>
@@ -533,7 +533,7 @@ function HeroSection() {
           </a>
 
           <a
-            href="https://wa.me/919876543210?text=Hello%2C%20I%20would%20like%20to%20order%20from%20Hoazhan%20Royal%20Dining"
+            href="https://wa.me/919876543210?text=Hello%2C%20I%20would%20like%20to%20order%20from%20Haozhan%20Royal%20Dining"
             target="_blank"
             rel="noopener noreferrer"
             data-ocid="hero.secondary_button"
@@ -599,7 +599,7 @@ function AboutSection() {
           <div className="relative">
             <img
               src="/assets/generated/about-restaurant.dim_900x700.jpg"
-              alt="Hoazhan Royal Dining Entrance"
+              alt="Haozhan Royal Dining Entrance"
               className="w-full h-[500px] object-cover"
             />
             {/* Gold frame accent */}
@@ -662,7 +662,7 @@ function AboutSection() {
           </h2>
 
           <p className="font-poppins text-cream/70 text-sm leading-relaxed mb-5">
-            Founded in 2018 by Chef Arjun Mehta and Priya Hoazhan, our
+            Founded in 2018 by Chef Arjun Mehta and Priya Haozhan, our
             restaurant was born from a singular vision: to craft dining
             experiences worthy of royalty. Drawing inspiration from Mughal court
             kitchens, imperial Chinese banquets, and the finest European
@@ -1187,7 +1187,7 @@ function ContactSection() {
   return (
     <section id="contact" className="py-28 bg-rich-black">
       <div className="max-w-7xl mx-auto px-6">
-        <GoldDivider title="Find Us" subtitle="Visit Hoazhan Royal Dining" />
+        <GoldDivider title="Find Us" subtitle="Visit Haozhan Royal Dining" />
 
         <div className="grid md:grid-cols-2 gap-12">
           {/* Contact Info */}
@@ -1290,7 +1290,7 @@ function ContactSection() {
                 }}
                 allowFullScreen
                 loading="lazy"
-                title="Hoazhan Royal Dining Location"
+                title="Haozhan Royal Dining Location"
               />
               {/* Gold overlay border */}
               <div className="absolute inset-0 pointer-events-none border border-gold/30" />
@@ -1386,7 +1386,7 @@ function Footer() {
 function FloatingWhatsApp() {
   return (
     <motion.a
-      href="https://wa.me/919876543210?text=Hello%2C%20I%20would%20like%20to%20enquire%20about%20Hoazhan%20Royal%20Dining"
+      href="https://wa.me/919876543210?text=Hello%2C%20I%20would%20like%20to%20enquire%20about%20Haozhan%20Royal%20Dining"
       target="_blank"
       rel="noopener noreferrer"
       data-ocid="whatsapp.primary_button"
