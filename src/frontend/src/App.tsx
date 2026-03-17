@@ -321,7 +321,10 @@ function Navbar() {
               HOAZHAN
             </span>
             <span className="font-poppins text-cream/60 text-[10px] tracking-[0.4em] uppercase">
-              Royal Dining
+              Royal Dining · Mumbra
+            </span>
+            <span className="font-poppins text-gold/50 text-[9px] tracking-[0.3em] uppercase">
+              Since 2025
             </span>
           </div>
         </a>
@@ -457,7 +460,7 @@ function HeroSection() {
         >
           <div className="h-px w-12 bg-gold" />
           <span className="font-poppins text-gold text-xs tracking-[0.5em] uppercase">
-            Est. 2018 · Mumbai
+            Est. Since 2025 · Mumbra
           </span>
           <div className="h-px w-12 bg-gold" />
         </motion.div>
@@ -1199,8 +1202,7 @@ function ContactSection() {
                 {
                   icon: MapPin,
                   label: "Address",
-                  value:
-                    "12, Royal Heritage Lane, Bandra West\nMumbai, Maharashtra 400050",
+                  value: "Mumbra, Maharashtra",
                 },
                 {
                   icon: Phone,
@@ -1315,7 +1317,7 @@ function Footer() {
               HOAZHAN
             </div>
             <div className="font-poppins text-[10px] tracking-[0.4em] uppercase text-cream/40">
-              Royal Dining · Mumbai
+              Royal Dining · Mumbra · Since 2025
             </div>
           </div>
 
